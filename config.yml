@@ -1,0 +1,12 @@
+baseURL: "https://tesaunders.github.io/"
+languageCode: en-us
+theme: PaperMod
+enableEmoji: true
+
+params:
+  title: Tom's website
+  description: My personal website
+  author: Tom Saunders
+  homeInfoParams:
+        Title: Hi, I'm Tom
+        Content: Digital Research Skills
