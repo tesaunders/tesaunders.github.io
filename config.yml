@@ -4,9 +4,20 @@ theme: PaperMod
 enableEmoji: true
 
 params:
-  title: Tom's website
-  description: My personal website
-  author: Tom Saunders
-  homeInfoParams:
-        Title: Hi, I'm Tom
-        Content: Digital Research Skills
+    profileMode:
+        enabled: true
+        title: "Tom Saunders"
+        subtitle: "Digital Skills • Data Management • Open Research"
+        imageUrl: "images/profile-pic.jpg"
+        imageWidth: 250
+        imageHeight: 250
+    
+    socialIcons:
+        - name: "email"
+          url: "<link>"
+        - name: "github"
+          url: "https://github.com/tesaunders"
+        - name: "twitter"
+          url: "https://twitter.com/TomSaundersNZ"
+        - name: "linkedin"
+          url: "https://www.linkedin.com/in/tomsaundersnz/"
