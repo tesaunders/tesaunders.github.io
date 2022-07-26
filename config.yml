@@ -3,6 +3,11 @@ languageCode: en-us
 theme: PaperMod
 enableEmoji: true
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
 params:
     profileMode:
         enabled: true
@@ -21,3 +26,10 @@ params:
           url: "https://twitter.com/TomSaundersNZ"
         - name: "linkedin"
           url: "https://www.linkedin.com/in/tomsaundersnz/"
+
+menu:
+    main:
+        - identifier: publications
+          name: Publications
+          url: /publications/
+          weight: 10
