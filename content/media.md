@@ -2,6 +2,7 @@
 title: "Media"
 date: 2022-07-27T17:50:51+12:00
 draft: false
+hideMeta: true
 ---
 ## Opinion
 

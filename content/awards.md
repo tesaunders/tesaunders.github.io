@@ -2,6 +2,7 @@
 title: "Awards"
 date: 2022-07-27T17:49:35+12:00
 draft: false
+hideMeta: true
 ---
 # 2022
 * The University of Auckland Vice-Chancellor's Recognition Awards, Valued Contribution to the University, Centre for eResearch, Research Bazaar Project Team
