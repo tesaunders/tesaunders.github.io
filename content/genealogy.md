@@ -5,9 +5,6 @@ draft: false
 hideMeta: true
 ShowTOC: true
 ---
-
-# Genealogy
-
 ## Civil Records
 
 **New Zealand**  
@@ -121,12 +118,12 @@ ShowTOC: true
 
 [Archives New Zealand: Archway](http://archway.archives.govt.nz/)  
 [National Library of New Zealand: Paper's Past](https://paperspast.natlib.govt.nz/newspapers)  
-[Auckland War Memorial Museum: Online Collections](https://www.aucklandmuseum.com/discover/collections-online/search)
-[Auckland Council: Heritage Collections Online](https://kura.aucklandlibraries.govt.nz/digital/)
-[NZ Society of Genealogists Library Catalogue](https://nz.accessit.online/NZS00/#!dashboard)
-[DigitalNZ](https://digitalnz.org/explore)
-[Goldminer's Database](https://www.kaelewis.com/)
-[Puhoi Heritage Museum](http://puhoiheritagemuseum.co.nz/puhoi-heritage-museum-incorporated/)
+[Auckland War Memorial Museum: Online Collections](https://www.aucklandmuseum.com/discover/collections-online/search)  
+[Auckland Council: Heritage Collections Online](https://kura.aucklandlibraries.govt.nz/digital/)  
+[NZ Society of Genealogists Library Catalogue](https://nz.accessit.online/NZS00/#!dashboard)  
+[DigitalNZ](https://digitalnz.org/explore)  
+[Goldminer's Database](https://www.kaelewis.com/)  
+[Puhoi Heritage Museum](http://puhoiheritagemuseum.co.nz/puhoi-heritage-museum-incorporated/)  
 
 [National Library of Australia: Trove](https://trove.nla.gov.au/)  
 
@@ -135,12 +132,12 @@ ShowTOC: true
 [Archives New Zealand: Migration](https://archives.govt.nz/search-the-archive/researching/research-guides/citizenship-and-migration/migration)  
 [Archives New Zealand: Passenger Lists, 1839-1973 (FamilySearch.org)](https://www.familysearch.org/search/collection/1609792)  
 [Public Records Office of Victoria: Outwards Passenger Lists (1852-1923)](https://prov.vic.gov.au/explore-collection/explore-topic/passenger-records-and-immigration/outwards-passenger-lists)  
-[RootsWeb: Passenger Lists to New Zealand](https://freepages.rootsweb.com/~nzbound/genealogy/lists.htm)
-[New Zealand Yesteryears: Passenger Shipping 1800-1900](http://www.yesteryears.co.nz/)
+[RootsWeb: Passenger Lists to New Zealand](https://freepages.rootsweb.com/~nzbound/genealogy/lists.htm)  
+[New Zealand Yesteryears: Passenger Shipping 1800-1900](http://www.yesteryears.co.nz/)  
 
 ## Military
 
 [New Zealand Army: Soldier Service & War Records](https://www.armymuseum.co.nz/explore/research/family-history/)  
-[Auckland War Memorial Museum: Online Cenotaph](https://www.aucklandmuseum.com/war-memorial/online-cenotaph)
-[New Zealand War Graves Project](https://www.nzwargraves.org.nz/)
-[New Zealand Wars: Soldiers of Empire 1860-1870](http://www.soldiersofempire.nz/)
+[Auckland War Memorial Museum: Online Cenotaph](https://www.aucklandmuseum.com/war-memorial/online-cenotaph)  
+[New Zealand War Graves Project](https://www.nzwargraves.org.nz/)  
+[New Zealand Wars: Soldiers of Empire 1860-1870](http://www.soldiersofempire.nz/)  
