@@ -26,6 +26,7 @@ params:
           url: "https://twitter.com/TomSaundersNZ"
         - name: "linkedin"
           url: "https://www.linkedin.com/in/tomsaundersnz/"
+    showBreadcrumbs: true
 
 menu:
     main:
