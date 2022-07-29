@@ -1,7 +1,7 @@
 ---
 title: "Genealogy"
 date: 2022-07-27T20:50:29+12:00
-draft: true
+draft: false
 hideMeta: true
 ShowTOC: true
 ---
