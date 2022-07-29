@@ -8,10 +8,11 @@ ShowTOC: true
 
 # Genealogy
 
-## Births, Marriages, & Deaths
+## Civil Records
 
 **New Zealand**  
 [Births, Deaths & Marriages Online](https://www.bdmhistoricalrecords.dia.govt.nz/)  
+[New Zealand Electoral Rolls: 1853-1935](https://www.findmypast.com/articles/world-records/full-list-of-australia-and-new-zealand-records/census-land-and-survey-records/new-zealand-electoral-rolls-1853-1935)
 
 **Australia**  
 [Queensland: Family History Research Service](https://www.familyhistory.bdm.qld.gov.au/)  
@@ -76,58 +77,57 @@ ShowTOC: true
 [Tararua District Council](https://www.tararuadc.govt.nz/living-here/community-information/cemeteries/cemetery-records-search)  
 [Whanganui District Council](https://wdc.whanganui.govt.nz/Cemeteries/Search.aspx)  
 
-[Carterton District Council]()  
-[Hutt City Council]()  
-[Kapiti Coast District Council]()  
-[Masterton District Council]()  
-[Porirua City Council]()  
-[South Wairarapa District Council]()  
-[Upper Hutt City Council]()  
-[Wellington City Council]()  
-[Wellington Regional Council]()  
+[Carterton District Council](https://cdc.govt.nz/online-services/cemetery-search/)  
+[Hutt City Council](http://iportal.huttcity.govt.nz/?Tab=27)  
+[Kapiti Coast District Council](https://www.kapiticoast.govt.nz/services/a-z-council-services-and-facilities/cemeteries/cemeteries-database-search/)  
+[Masterton District Council](https://mstn.govt.nz/services/cemeteries-and-crematorium/)  
+[Porirua City Council](https://poriruacity.govt.nz/services/cemeteries/cemetery-search/)  
+[South Wairarapa District Council](https://swdc.govt.nz/services/cemeteries/)  
+[Upper Hutt City Council](https://www.upperhuttcity.com/Services/Akatarawa-Cemetery/Cemetery-Database)  
+[Wellington City Council](https://wellington.govt.nz/cemeteries/cemetery-search-and-plot-locater/search-cemetery-records)  
 
 **New Zealand | South Island**  
-[Tasman District Council]()  
+[Tasman District Council](https://www.tasman.govt.nz/my-community/cemeteries/cemetery-search/)  
 
-[Nelson City Council]()  
+[Nelson City Council](http://www.nelson.govt.nz/services/facilities/cemeteries/cemeteries-search/)  
 
-[Marlborough District Council]()  
+[Marlborough District Council](https://www.marlborough.govt.nz/services/cemeteries/cemetery-records-search)  
 
-[Buller District Council]()  
-[Grey District Council]()  
-[West Coast Regional Council]()  
-[Westland District Council]()  
+[Buller District Council](https://online.bullerdc.magiqcloud.com/cemeteries/plot_records/search)  
+[Grey District Council](mailto:info@greydc.govt.nz)  
+[Westland District Council](https://www.westlanddc.govt.nz/do-it-online/search-databases/)  
 
-[Ashburton District Council]()  
-[Canterbury Regional Council]()  
-[Christchurch City Council]()  
-[Hurunui District Council]()  
-[Kaikoura District Counil]()  
-[Mackenzie District Council]()  
-[Selwyn District Council]()  
-[Timaru District Council]()  
-[Waimakariri District Council]()  
-[Waimate District Council]()  
-[Waitaki District Council]()  
+[Ashburton District Council](https://infoservices.adc.govt.nz/Cemeteries/)  
+[Christchurch City Council](https://heritage.christchurchcitylibraries.com/Cemeteries/)  
+[Hurunui District Council](https://www.hurunui.govt.nz/community/cemeteries/2-cemetery-search)  
+[Kaikōura District Counil](mailto:KDC@kaikoura.govt.nz)  
+[Mackenzie District Council](https://www.mackenzie.govt.nz/services/cemeteries)  
+[Selwyn District Council](http://rates.selwyn.govt.nz/cemeteries/plot_records/search)  
+[Timaru District Council](https://www.timaru.govt.nz/services/community-and-culture/cemeteries/cemetery-search)  
+[Waimakariri District Council](https://www.waimakariri.govt.nz/services/cemeteries/search-cemetery-records)  
+[Waimate District Council](https://www.waimatedc.govt.nz/community/cemeteries)  
+[Waitaki District Council](https://www.waitaki.govt.nz/Services/Cemeteries/Cemetery-search-and-maps/Cemetery-search)  
 
-[Chatham Islands Council]()  
+[Central Otago District Council](https://www.codc.govt.nz/do-it-online/cemetery-record-search)  
+[Clutha District Council](https://www.cluthadc.govt.nz/council/do-it-online/cemetery-search)  
+[Dunedin City Council](https://www.dunedin.govt.nz/services/cemeteries/cemeteries-search)  
+[Queenstown-Lakes District Council](https://www.qldc.govt.nz/services/cemeteries#interment-records)  
 
-[Central Otago District Council]()  
-[Clutha District Council]()  
-[Dunedin City Council]()  
-[Otago Regional Council]()  
-[Queenstown-Lakes District Council]()  
-[Waitaki District Council]()  
+[Gore District Council](https://www.goredc.govt.nz/services/cemeteries/cemetery-records-search)  
+[Invercargill City Council](https://icc.govt.nz/cemeteries/cemetery-search/)  
+[Southland District Council](https://www.southlanddc.govt.nz/my-southland/cemeteries/cemeterysearch/)  
 
-[Gore District Council]()  
-[Invercargill City Council]()  
-[Southland District Council]()  
-[Southland Regional Council]()  
-
-## Archives
+## Libraries, Archives & Museums
 
 [Archives New Zealand: Archway](http://archway.archives.govt.nz/)  
 [National Library of New Zealand: Paper's Past](https://paperspast.natlib.govt.nz/newspapers)  
+[Auckland War Memorial Museum: Online Collections](https://www.aucklandmuseum.com/discover/collections-online/search)
+[Auckland Council: Heritage Collections Online](https://kura.aucklandlibraries.govt.nz/digital/)
+[NZ Society of Genealogists Library Catalogue](https://nz.accessit.online/NZS00/#!dashboard)
+[DigitalNZ](https://digitalnz.org/explore)
+[Goldminer's Database](https://www.kaelewis.com/)
+[Puhoi Heritage Museum](http://puhoiheritagemuseum.co.nz/puhoi-heritage-museum-incorporated/)
+
 [National Library of Australia: Trove](https://trove.nla.gov.au/)  
 
 ## Migration
@@ -136,8 +136,11 @@ ShowTOC: true
 [Archives New Zealand: Passenger Lists, 1839-1973 (FamilySearch.org)](https://www.familysearch.org/search/collection/1609792)  
 [Public Records Office of Victoria: Outwards Passenger Lists (1852-1923)](https://prov.vic.gov.au/explore-collection/explore-topic/passenger-records-and-immigration/outwards-passenger-lists)  
 [RootsWeb: Passenger Lists to New Zealand](https://freepages.rootsweb.com/~nzbound/genealogy/lists.htm)
+[New Zealand Yesteryears: Passenger Shipping 1800-1900](http://www.yesteryears.co.nz/)
 
 ## Military
 
 [New Zealand Army: Soldier Service & War Records](https://www.armymuseum.co.nz/explore/research/family-history/)  
 [Auckland War Memorial Museum: Online Cenotaph](https://www.aucklandmuseum.com/war-memorial/online-cenotaph)
+[New Zealand War Graves Project](https://www.nzwargraves.org.nz/)
+[New Zealand Wars: Soldiers of Empire 1860-1870](http://www.soldiersofempire.nz/)
