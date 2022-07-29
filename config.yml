@@ -15,8 +15,7 @@ params:
         subtitle: "Digital Skills • Data Management • Open Research"
         imageUrl: "images/profile-pic.jpg"
         imageWidth: 250
-        imageHeight: 250
-    
+        imageHeight: 250 
     socialIcons:
         - name: "email"
           url: "<link>"
@@ -26,7 +25,6 @@ params:
           url: "https://twitter.com/TomSaundersNZ"
         - name: "linkedin"
           url: "https://www.linkedin.com/in/tomsaundersnz/"
-    showBreadcrumbs: true
 
 menu:
     main:
