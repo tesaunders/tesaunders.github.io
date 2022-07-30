@@ -18,7 +18,7 @@ params:
         imageHeight: 250 
     socialIcons:
         - name: "email"
-          url: "<link>"
+          url: "https://tesaunders.github.io/contact/"
         - name: "github"
           url: "https://github.com/tesaunders"
         - name: "twitter"
