@@ -4,6 +4,7 @@ date: 2022-07-27T20:50:29+12:00
 draft: false
 hideMeta: true
 ShowTOC: true
+TocOpen: true
 ---
 ## Civil Records
 

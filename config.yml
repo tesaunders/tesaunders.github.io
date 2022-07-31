@@ -12,7 +12,7 @@ params:
     profileMode:
         enabled: true
         title: "Tom Saunders"
-        subtitle: "Digital Skills • Data Management • Open Research"
+        subtitle: "Open Research • Digital Skills • Data Management"
         imageUrl: "images/profile-pic.jpg"
         imageWidth: 250
         imageHeight: 250 
@@ -25,7 +25,7 @@ params:
           url: "https://twitter.com/TomSaundersNZ"
         - name: "linkedin"
           url: "https://www.linkedin.com/in/tomsaundersnz/"
-
+DateFormat: "02 January 2006"
 menu:
     main:
         - identifier: home
