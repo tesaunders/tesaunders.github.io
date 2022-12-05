@@ -44,6 +44,8 @@ hideMeta: true
 
 ## Opinion
 
+<p><b><a href="https://oaaustralasia.org/2022/12/04/a-first-step-in-delivering-a-courageous-vision-of-open-research-for-aotearoa/"> A first step in delivering a courageous vision of Open Research for Aotearoa</a> | OA Australasia | 4 Dec 2022 </b></p>
+
 <p><b><a href="https://www.newsroom.co.nz/@ideasroom/2019/06/05/608879/why-cant-taxpayers-access-the-research-they-fund"> Let taxpayers access research they fund</a> | Newsroom | 5 June 2019 </b></p>
 
 <p><b><a href="https://www.newsroom.co.nz/@ideasroom/2019/04/19/544490/taxonomy-the-neglected-science-of-discovery">Taxonomy – the neglected science of discovery</a> | Newsroom | 22 April 2019 </b></p>

@@ -52,13 +52,13 @@ Notes
 
 You won't need to include every piece of metadata in your citations or bibliographies, but it's still best to record everything you can so you don't need to come back and repeat your work later on. There are many ways of styling your citations or bibliographies, but the important thing is to pick a style and be consistent.
 
-### Organsising your research with software
+### Use family tree software
 
-The need to structure your family history as a branching tree, along with the need to store lots of information associated with sources, and cite these using a consistent style, are some of the compelling reasons to use genealogical software.
+If you're serious about family history then you'll want to start using family tree software to structure your tree, organise your sources and media, and generate citations and reference lists in a consistent style. There are many free and paid options available. 
 
-I use [RootsMagic](https://www.rootsmagic.com/) which is genealogical software developed by a company in the United States. It costs US$40 as a one-off payment. I chose RM because it has a fairly long history, is actively developed, has a good forum with an active community, contained all the features I was looking for, and was sold for a one-off payment rather than an ongoing subscription. I deliberately chose an "offline" option over an online tree service, as these tend to be subscription-based (or they monetise your data), and I wanted the security of working on my local machine only. I also chose not to subscribe to Ancestry.com, for similar reasons, although this seems to be a popular option. There are other good family tree programs out there, and some are free. 
+I use [RootsMagic](https://www.rootsmagic.com/) which is developed by a company in the United States. It costs US$40 as a one-off payment. I chose RM because it has a long history, is actively developed, has a good forum with an active community, contained all the features I was looking for, and was sold for a one-off payment rather than an ongoing subscription. I deliberately chose an "offline" option over an online tree service to maintain control over my data and to avoid subscription fees. Each family tree program has its own quirks and is designed to be used in a certain way. Rootsmagic is no exception. When deciding on software, take a look to see how thorough the documentation or user manual is. Rootsmagic provides good documentation and video guides. 
 
-Each family tree program has its own quirks and is designed to be used in a certain way. Rootsmagic is no exception. When deciding on software, take a look to see how thorough the documentation or user manual is. Rootsmagic provides good documentation and video guides. While basic tasks can be picked up pretty quickly, it will take you a long time to understand all of the features offered by your family tree program, and probably even longer still to understand how to incorporate these features into your workflow (the basic steps you follow when researching and assembling family tree information).
+See my separate notes on [family tree software]() for an outline of the conventions and workflow I use.
 
 ## 5. Search civil records first
 
@@ -81,14 +81,26 @@ Birth certificates usually include the names of the parents, so record this info
 
 ### [Archives New Zealand Collections Search](https://collections.archives.govt.nz)
 
-Archives New Zealand contains a wide variety of records that are extremely valuable for conducting family history research. First, use Collections Search to find probates. Probates are official records of how a person's estate was administered after their death. If the deceased person's will was submitted to the courts then it will be included in the probate record. This makes probates an extremely valuable source of information for the family historian for several reasons:
+Archives New Zealand manages a massive variety of records of interest for family history research. 
 
-- Wills and probates contain official information about a person such as their legal name, date of birth, and date of death.
-- They usually also contain interesting facts about a person such as their place of residence and occupation.
-- Where a deceased person appoints their next of kin as executor of their will, the will and probate will often contain valuable information about them too.
-- Wills are a good source for confirming the names and relationships of family members who are allocated assets.
+I recommend starting with probates. Probates are official records of how a person's estate was administered after their death. If the deceased person's will was submitted to the courts then it will be included in the probate record. This makes probates an extremely valuable source of information for the family historian for several reasons:
 
-Probates can be searched directly through Collections Search or the [FamilySearch](https://www.familysearch.org/search/collection/1865481) collection, which is where Archives NZ ultimately [plans](https://www.archives.govt.nz/research-guidance/research-guides/identity/searching-digitised-probates) to upload all probates over 50 years old.
+- They contain official information about a person such as their legal name, date of birth, and date of death. Sometimes it can be difficult to nail this information down from other sources.
+- They usually contain interesting facts about a person such as their place of residence and occupation.
+- Where a deceased person appoints their next of kin as executor of their will, or bequeaths their belongings to family members, the will and probate will often contain valuable information about them too.
+
+Probates can be searched directly through Collections Search or through the [FamilySearch](https://www.familysearch.org/search/collection/1865481) collection, which is where Archives NZ ultimately [plans](https://www.archives.govt.nz/research-guidance/research-guides/identity/searching-digitised-probates) to upload all probates over 50 years old.
+
+### Local Authority Burial Records
+
+District and Regional Councils hold records relating to burials.
+
+## Expand to Include Newspapers, Museums, and Archives
+
+Papers Past
+
+Military records
+
 
 
 
