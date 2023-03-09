@@ -1,5 +1,6 @@
 ---
-title: "Genealogy"
+title: "Family History Links"
+summary: "A collection of useful links to repositories of family history records and sources."
 date: 2022-07-27T20:50:29+12:00
 draft: false
 hideMeta: true

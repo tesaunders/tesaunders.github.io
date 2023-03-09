@@ -1,5 +1,6 @@
 ---
-title: "Genealogy"
+title: "Family History Guide"
+summary: "An overview of the process I've used to conduct research into family history."
 date: 2022-07-27T20:50:29+12:00
 draft: false
 hideMeta: true

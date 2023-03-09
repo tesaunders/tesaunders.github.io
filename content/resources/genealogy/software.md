@@ -1,5 +1,6 @@
 ---
-title: "Genealogy"
+title: "Family History Software"
+summary: "General tips for using family history software, and specific tips for using RootsMagic8."
 date: 2022-07-27T20:50:29+12:00
 draft: false
 hideMeta: true
