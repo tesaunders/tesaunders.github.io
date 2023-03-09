@@ -45,8 +45,8 @@ menu:
           url: /outreach/
           weight: 50
         - identifier: notes
-          name: Notes
-          url: /notes/
+          name: Resources
+          url: /resources/
           weight: 60
         - identifier: contact
           name: Contact
