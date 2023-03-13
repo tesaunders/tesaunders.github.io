@@ -14,4 +14,3 @@ Please get in touch using the form below.
         <button id="form-button" type="submit" style="padding:4px 10px;width:100%;color:var(--primary);font-weight:700;border:2px solid var(--tertiary);border-radius:var(--radius)">Send 🚀</button>
     </form>
 </div>
-<div class="g-recaptcha" data-sitekey="6Lc0b_ckAAAAAG19_D0vEQGY-yUW1r-fBs-dysjx"></div>
