@@ -56,7 +56,7 @@ hideMeta: true
 
 <p><b><a href="https://www.newsroom.co.nz/@ideasroom/2019/04/19/544490/taxonomy-the-neglected-science-of-discovery">Taxonomy – the neglected science of discovery</a> | Newsroom | 22 April 2019 </b></p>
 
-<p><b><a href="https://sciblogs.co.nz/guestwork/2019/04/09/dissecting-the-insect-apocalypse/">Dissecting the ‘insect apocalypse’</a> | SciBlogs | 9 April 2019</b></p>
+<p><b><a href="https://ndhadeliver.natlib.govt.nz/webarchive/20220622093355/https://sciblogs.co.nz/guestwork/2019/04/09/dissecting-the-insect-apocalypse/">Dissecting the ‘insect apocalypse’</a> | SciBlogs [Archived] | 9 April 2019</b></p>
 
 <p><b><a href="https://www.newsroom.co.nz/@ideasroom/2018/02/05/80634/tiny-wasp-could-be-answer-to-stink-bug-problem">Tiny wasp could be answer to stink bug problem</a> | Newsroom | 5 February 2018</b></p>
 
@@ -116,7 +116,7 @@ hideMeta: true
 
 <p><b>SciFri Panel: What is Natural?</b> | <em>Scigest</em> | 16 September 2019</p>
 
-<p><b>Harry Potter, Taxaonomy, and Acedemic Publishing with Tom Saunders</b> | <i>In Situ Science</i> | 5 August 2019</p>
+<p><b>Harry Potter, Taxonomy, and Academic Publishing with Tom Saunders</b> | <i>In Situ Science</i> | 5 August 2019</p>
 
 <p><b>A Lesson from Europe</b> | <i>Scigest</i> | 26 July 2019</p>
 
