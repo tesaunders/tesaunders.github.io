@@ -7,7 +7,7 @@ hideMeta: true
 ## Reports
 
 <div class="csl-bib-body" style="line-height: 1.35; margin-left: 2em; text-indent:-2em; margin-bottom: 10px">
-  <div class="csl-entry"><b>Saunders, T.E.</b>, 2022. The Future is Open: Establishing Wider Open Access for Research Publications in Aotearoa New Zealand. Office of the Prime Minister’s Chief Science Advisor, Auckland, New Zealand. <a href="https://doi.org/10.5281/zenodo.6872128">[Open Access]</a></div>
+  <div class="csl-entry"><b>Saunders, T.E.</b>, 2022. The Future is Open: Establishing Wider Open Access for Research Publications in Aotearoa New Zealand. Office of the Prime Minister’s Chief Science Advisor, Auckland, New Zealand. <a href="https://doi.org/10.5281/zenodo.6872128">[Open Access]</a>
 </div>
 
 ## Journal Articles
