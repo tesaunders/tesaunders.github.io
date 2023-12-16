@@ -4,10 +4,16 @@ date: 2022-07-26T22:52:50+12:00
 draft: false
 hideMeta: true
 ---
-## Journal Articles & Reports
+## Reports
 
 <div class="csl-bib-body" style="line-height: 1.35; margin-left: 2em; text-indent:-2em; margin-bottom: 10px">
   <div class="csl-entry"><b>Saunders, T.E.</b>, 2022. The Future is Open: Establishing Wider Open Access for Research Publications in Aotearoa New Zealand. Office of the Prime Minister’s Chief Science Advisor, Auckland, New Zealand. <a href="https://doi.org/10.5281/zenodo.6872128">[Open Access]</a></div>
+</div>
+
+## Journal Articles
+
+<div class="csl-bib-body" style="line-height: 1.35; margin-left: 2em; text-indent:-2em; margin-bottom: 10px">
+  <div class="csl-entry">Abram, Paul K., Eric Guerra-Grenier, Jacques Brodeur, Clarissa Capko, Michely Ferreira Santos Aquino, Elizabeth H. Beers, Maria Carolina Blassioli-Moraes, et al. 2023. Protective Geometry and Reproductive Anatomy as Candidate Determinants of Clutch Size Variation in Pentatomid Bugs. The American Naturalist 202 (4): E104–20. <a href="https://doi.org/10.1086/725917">[Online]</a> <a href=https://www.biorxiv.org/content/10.1101/2022.05.16.492197v2>[Preprint]</a>
 </div>
 
 <div class="csl-bib-body" style="line-height: 1.35; margin-left: 2em; text-indent:-2em; margin-bottom: 10px">
