@@ -48,6 +48,10 @@ menu:
           name: Resources
           url: /resources/
           weight: 60
+        - identifier: projects
+          name: Projects
+          url: /projects/
+          weight: 65
         - identifier: contact
           name: Contact
           url: /contact/
