@@ -32,7 +32,8 @@ hideMeta: true
 
     repos.forEach(repo => {
       const iframe = document.createElement('iframe');
-      iframe.src = repo.homepage;
+      iframe.title = repo.name;
+      iframe.src = repo.homepage.replace("http://", "https://");
       iframe.width = '100%';
       iframe.height = '400px';
       postContent.appendChild(iframe);
