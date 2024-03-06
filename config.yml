@@ -17,12 +17,10 @@ params:
         imageWidth: 250
         imageHeight: 250 
     socialIcons:
-        - name: "email"
-          url: "https://tesaunders.github.io/contact/"
         - name: "github"
           url: "https://github.com/tesaunders"
         - name: "twitter"
-          url: "https://twitter.com/TomSaundersNZ"
+          url: "https://bsky.app/profile/tomsaunders.me"
         - name: "linkedin"
           url: "https://www.linkedin.com/in/tomsaundersnz/"
 DateFormat: "02 January 2006"
@@ -44,11 +42,3 @@ menu:
           name: Outreach
           url: /outreach/
           weight: 50
-        - identifier: notes
-          name: Resources
-          url: /resources/
-          weight: 60
-        - identifier: contact
-          name: Contact
-          url: /contact/
-          weight: 70
