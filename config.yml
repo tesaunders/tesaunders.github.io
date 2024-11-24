@@ -19,7 +19,7 @@ params:
     socialIcons:
         - name: "github"
           url: "https://github.com/tesaunders"
-        - name: "twitter"
+        - name: "bluesky"
           url: "https://bsky.app/profile/tomsaunders.me"
         - name: "linkedin"
           url: "https://www.linkedin.com/in/tomsaundersnz/"
