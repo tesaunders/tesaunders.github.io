@@ -21,7 +21,7 @@ hideMeta: true
 </div>
 
 <div class="csl-bib-body" style="line-height: 1.35; margin-left: 2em; text-indent:-2em; margin-bottom: 10px">
-  <div class="csl-entry"><b>Saunders, T.E.</b>, Avila, G.A., Holwell, G.I., 2022. Retrospective host-specificity testing shows <i>Trissolcus basalis</i> (Wollaston) and the native <i>Trissolcus oenone</i> (Dodd) (Hymenoptera: Scelionidae) have overlapping physiological host ranges in New Zealand. Biological Control 170, 104926. <a href="https://doi.org/10.1016/j.biocontrol.2022.104926">[Online]</a> <a href=""></a>[Open Access]</div>
+  <div class="csl-entry"><b>Saunders, T.E.</b>, Avila, G.A., Holwell, G.I., 2022. Retrospective host-specificity testing shows <i>Trissolcus basalis</i> (Wollaston) and the native <i>Trissolcus oenone</i> (Dodd) (Hymenoptera: Scelionidae) have overlapping physiological host ranges in New Zealand. Biological Control 170, 104926. <a href="https://doi.org/10.1016/j.biocontrol.2022.104926">[Online]</a> <a href=""></a> <a href="https://hdl.handle.net/2292/59787">[Open Access]</a></div>
 </div>
 
 <div class="csl-bib-body" style="line-height: 1.35; margin-left: 2em; text-indent:-2em; margin-bottom: 10px">
