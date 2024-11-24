@@ -13,6 +13,10 @@ hideMeta: true
 ## Journal Articles
 
 <div class="csl-bib-body" style="line-height: 1.35; margin-left: 2em; text-indent:-2em; margin-bottom: 10px">
+  <div class="csl-entry"><b>Saunders, T.E</b>, Manning, L. M, Avila, G. A., Holwell, G. I.,Park, K. C. 2024. Electrophysiological Responses of <i>Trissolcus japonicus</i>, <i>T. basalis</i>, and <i>T. oenone</i> (Hymenoptera: Scelionidae) to Volatile Compounds Associated with New Zealand Stink Bugs (Hemiptera: Pentatomidae). Journal of Chemical Ecology. <a href=" https://doi.org/10.1007/s10886-024-01533-7">[Open Access]</a></div>
+</div>
+
+<div class="csl-bib-body" style="line-height: 1.35; margin-left: 2em; text-indent:-2em; margin-bottom: 10px">
   <div class="csl-entry">Abram, Paul K., Eric Guerra-Grenier, Jacques Brodeur, Clarissa Capko, Michely Ferreira Santos Aquino, Elizabeth H. Beers, Maria Carolina Blassioli-Moraes, et al. 2023. Protective Geometry and Reproductive Anatomy as Candidate Determinants of Clutch Size Variation in Pentatomid Bugs. The American Naturalist 202 (4): E104–20. <a href="https://doi.org/10.1086/725917">[Online]</a> <a href=https://www.biorxiv.org/content/10.1101/2022.05.16.492197v2>[Preprint]</a></div>
 </div>
 
